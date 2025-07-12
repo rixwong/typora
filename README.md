@@ -2,6 +2,7 @@
 Typora beta version
 
 v0.10 和 v0.11 安装后提示不能使用
+
 `This beta version of Typora is expired, please download and install a newer version`
 
 v0.9 还能使用，最后的一个v0.9版本
